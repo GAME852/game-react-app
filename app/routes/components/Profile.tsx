@@ -5,10 +5,10 @@ export default function Profile(){
         <div className="p-10 rounded">
             <img src="/images/Sung-Jin-Woo-Wallpaper-8.jpeg" className="rounded-full w-32 shadow-lg border-4 border-purple-600 mx-auto" />
             <h2 className="text-xl text-center text-red-600 font-bold m-5">About Me</h2>
-            <p className="text-regular text-lg border-2 rounded w-1/2 p-5"> Name: Warit Niyomthai <br />
+            <p className="text-regular text-lg border-2 rounded w-1/2 p-5"> Name: Sakda Prasert <br />
                                                  Age: 19 years old   <br />
-                                                 NickName: Game <br />
-                                                 Address: 36/49 Khlong 2 Khlong luang Phatum thani 12120 <br />
+                                                 NickName: Tiger <br />
+                                                 Address: 4/8 M.7 10130  <br />
             </p>
              
         </div>

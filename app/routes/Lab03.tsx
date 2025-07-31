@@ -1,6 +1,7 @@
 //Filename: Lab03.tsx
 import Profile from "./components/Profile";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
  export default function MyProfile(){
     return (
@@ -30,6 +31,8 @@ import Contact from "./components/Contact";
         <div  className="ps-5 pe-5 pt-3 pb-3 bg-indigo-300 rounded w-20 flex justify-center mt-5">
         <a href="/">Back</a>
         </div>
+            <Footer
+            messenger = "@ 2525 Sakda - "/>
     </>
     );
  }
