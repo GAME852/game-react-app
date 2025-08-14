@@ -2,9 +2,9 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 export default function MyTermProjecr(){
 
-    const myPage ="tiger term project";
-    const myName ="Sakda Prasert";
-    const myStudID ="026730491013-1";
+    const myPage ="Game term project";
+    const myName ="Warit Niyomthai";
+    const myStudID ="026730491011-5";
     const myTermProj = [
     {
         tpID : 1,
@@ -59,7 +59,7 @@ px-10 py-2">Preview</a>
         <div className="w-1/2 grid mx-auto h-100 overflow-auto rounded-2xl border border-gray-300 m-6 ">
         {TeamProj}
         </div>
-        <Footer messenger = "@ 2525 Sakda - "/>
+        <Footer messenger = "@ 2525 Warit - "/>
            </>
     );
 

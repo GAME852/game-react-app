@@ -32,7 +32,7 @@ import Footer from "./components/Footer";
         <a href="/">Back</a>
         </div>
             <Footer
-            messenger = "@ 2525 Sakda - "/>
+            messenger = "@ 2525 Warit - "/>
     </>
     );
  }
