@@ -88,7 +88,7 @@ px-10 py-2" onClick={() => handleClick_b(tpObj.tpID,index)}>Preview</a>
         <h3 className="w-1/2 grid mx-auto h-100 overflow-hide rounded-2xl flex justify-center">
             โปรเจคมีจำนวน : {myTermProj.length} รายการ
         </h3>
-        <Footer messenger = "@ 2525 Warit - "/>
+        <Footer messenger = "@ 2025 Warit - "/>
            </>
     );
 

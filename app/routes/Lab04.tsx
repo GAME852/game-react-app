@@ -59,7 +59,7 @@ px-10 py-2">Preview</a>
         <div className="w-1/2 grid mx-auto h-100 overflow-auto rounded-2xl border border-gray-300 m-6 ">
         {TeamProj}
         </div>
-        <Footer messenger = "@ 2525 Warit - "/>
+        <Footer messenger = "@ 2025 Warit - "/>
            </>
     );
 
